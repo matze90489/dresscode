@@ -1,6 +1,6 @@
 # dcc
 
-A new Flutter project.
+Frontend-Code of the Global Software Engineering project "Dress Code Checker"
 
 ## Getting Started
 
